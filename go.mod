@@ -1,4 +1,4 @@
-module github.com/nats-io/jwt
+module github.com/djcarpe/jwt
 
 go 1.18
 
